@@ -43,9 +43,9 @@ export default function UnetePage() {
           
           <div className="unete-cta">
             <a 
-              href="/Pagament-autoritzacion.pdf" 
+              href="/FULL D INSCRIPCION 26 - 27.pdf" 
               className="btn btn-contacto"
-              download="Pagament-autoritzacion.pdf"
+              download="FULL D INSCRIPCION 26 - 27.pdf"
             >
               Descarrega el formulari
             </a>
